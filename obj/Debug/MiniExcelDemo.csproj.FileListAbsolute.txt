@@ -1,0 +1,13 @@
+E:\hgm\GitHub\MiniExcelDemo\obj\Debug\MiniExcelDemo.csproj.AssemblyReference.cache
+E:\hgm\GitHub\MiniExcelDemo\obj\Debug\MiniExcelDemo.csproj.CoreCompileInputs.cache
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MiniExcelDemo.exe.config
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MiniExcelDemo.exe
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MiniExcelDemo.pdb
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\Dapper.dll
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MiniExcel.dll
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MySql.Data.dll
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\Dapper.xml
+E:\hgm\GitHub\MiniExcelDemo\bin\Debug\MySql.Data.xml
+E:\hgm\GitHub\MiniExcelDemo\obj\Debug\MiniExcelDemo.csproj.CopyComplete
+E:\hgm\GitHub\MiniExcelDemo\obj\Debug\MiniExcelDemo.exe
+E:\hgm\GitHub\MiniExcelDemo\obj\Debug\MiniExcelDemo.pdb
